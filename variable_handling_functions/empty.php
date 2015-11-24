@@ -10,6 +10,8 @@
     </head>
     <body>
         <?php
+            //boolval — Get the boolean value of a variable
+        
             $expected_array_got_string = 'somestring';
             var_dump(empty($expected_array_got_string['some_key']));
             echo"</br>";
