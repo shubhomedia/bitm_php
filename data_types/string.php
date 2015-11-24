@@ -17,6 +17,37 @@
             echo"$string_variable </br>";
             echo"$name  " . "$institute" . "</br>";
             echo"Thank You";
+            echo "</br>";
+            
+            
+            ///copy from php.net
+            
+            echo 'this is a simple string';
+            echo "</br>";
+            
+            echo 'You can also have embedded newlines in 
+            strings this way as it is
+            okay to do';
+            echo "</br>";
+             
+            // Outputs: Arnold once said: "I'll be back"
+            echo 'Arnold once said: "I\'ll be back"';
+            echo "</br>";
+             
+            // Outputs: You deleted C:\*.*?
+            echo 'You deleted C:\\*.*?';
+            echo "</br>";
+            
+            // Outputs: You deleted C:\*.*?
+            echo 'You deleted C:\*.*?';
+            echo "</br>";
+            
+            // Outputs: This will not expand: \n a newline
+            echo 'This will not expand: \n a newline';
+            echo "</br>";
+            
+            // Outputs: Variables do not $expand $either
+            echo 'Variables do not $expand $either';
             
         ?>
     </body>
