@@ -3,23 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/is_array.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/basic_php_syntax.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/boolval.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/is_null.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/is_int.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/data_types/null.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/gettype.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/floatval.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/is_float.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/data_types/float.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/data_types/boolean.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/intval.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/data_types/integer.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/empty.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/data_types/string.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/data_types/array.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/is_bool.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/isset.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/is_object.php</file>
         </group>
     </open-files>
 </project-private>
