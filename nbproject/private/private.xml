@@ -5,7 +5,11 @@
         <group>
             <file>file:/C:/xampp/htdocs/bitm_php/data_types/boolean.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/basic_php_syntax.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/data_types/null.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/data_types/integer.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/data_types/array.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/data_types/string.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/data_types/float.php</file>
         </group>
     </open-files>
 </project-private>
