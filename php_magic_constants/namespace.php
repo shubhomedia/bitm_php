@@ -10,8 +10,11 @@
     </head>
     <body>
         <?php
-            $namespace = bitm;
-            echo "the namespace is : " . __NAMESPACE__;
+            class TestMagicConstants {    
+            public function printNamespace() {
+            echo "Namespace name is '" . __NAMESPACE__ . "'.\n";
+            }
+            }
         ?>
     </body>
 </html>
