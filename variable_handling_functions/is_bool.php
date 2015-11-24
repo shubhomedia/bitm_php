@@ -15,6 +15,7 @@
             $car = array ("BMW", "VOLVO", "TOYOTA");
             $booldata = TRUE;
             $booldata2 = FALSE;
+            
             echo is_bool($no); //output is boolean 1(true) or 0 (false)
             echo"</br>";
             echo is_bool($car); //output is boolean 1(true) or 0 (false)
