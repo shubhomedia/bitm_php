@@ -5,11 +5,12 @@
         <group>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/trait.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/file.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/variable_handling_functions/isset.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/dir.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/php_expression/simple_expression.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/function.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/line.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/class.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/php_expression/increement_decrement.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/method.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/namespace.php</file>
         </group>
