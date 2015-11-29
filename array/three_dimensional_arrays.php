@@ -12,18 +12,15 @@
         <?php
             $friends = array(
                 "Jack" => array(
-                    "Location" => array("Dhaka","Dinajpur","Rnagpur",
-                        
+                    "Location" => array("Dhaka","Dinajpur","Rnagpur",   
                     )
                 ),
                 "Smith" => array(
                     "Location" => array("Dhaka","Dinajpur","Rnagpur",
-                        
                     )
                 ),
                 "Bob" => array(
                     "Location" => array("Dhaka","Dinajpur","Rnagpur",
-                        
                     )
                 )
             );
