@@ -3,22 +3,37 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/substr_compare.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/trim.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/rtrim.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/implode.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/trait.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/file.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/dir.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/line.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/implode.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/strlen.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_expression/simple_expression.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/line.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/str_replace.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/number_format.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/addslashes.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/ucwords.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/explode.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/join.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/function.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/ltrim.php</file>
-            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/htmlentities.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/str_split.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/substr_replace.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/ucfirst.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/str_repeat.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/strtolower.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/rtrim.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/file.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/strtoupper.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/dir.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/substr_count.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/strip_tags.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/str_pad.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/addslashes.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/nl2br.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/join.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/money_format.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/class.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/htmlentities.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/method.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/namespace.php</file>
         </group>
