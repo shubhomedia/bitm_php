@@ -10,18 +10,20 @@
     </head>
     <body>
         <?php
-            $str = 'abcdef';
-            echo strlen($str); // 6
+            
+            $str = 'ABcdEf';
+            echo strtolower($str); 
             
             echo "<br>";
             
             $name = 'MD. OWES QURUNY SHUBHO';
-            echo strlen($name); // 22
+            echo strtolower($name); // 22
             
             echo "<br>";
             
             $str2 = ' ab cd ';
-            echo strlen($str2); // 7
+            echo strtolower($str2); // 7
+            
         ?>
     </body>
 </html>
