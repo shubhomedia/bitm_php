@@ -10,25 +10,27 @@
     </head>
     <body>
         <?php
-            $stack = array("orange", "banana", "apple", "raspberry");
-            echo"<pre>";
-            print_r($stack);
-            echo"<pre>";
+            $array=array(5,15,25);
+            echo "<pre>";
+            print_r($array);
+            echo "<pre>";
             
-            $fruit = array_shift($stack);
-            echo"<pre>";
-            print_r($fruit);
-            echo"<pre>";
+            echo"The Sum of array "  . array_sum($array);
+            echo "<br>" ."<br>"."<br>";
             
-            $a=array("a"=>"red","b"=>"green","c"=>"blue");
-            echo"<pre>";
+            //Another example
+            
+            $a = array(2, 4, 6, 8);
+            echo "<pre>";
             print_r($a);
-            echo"<pre>";
-            
-            echo"<pre>";
-            echo array_shift($a);
-            echo"<pre>";
-            print_r ($a);
+            echo "<pre>";
+            echo "sum(a) = " . array_sum($a) . "<br>";
+
+            $b = array("a" => 1.2, "b" => 2.3, "c" => 3.4);
+            echo "<pre>";
+            print_r($b);
+            echo "<pre>";
+            echo "sum(b) = " . array_sum($b) . "<br>";
             
       
         ?>
