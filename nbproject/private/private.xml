@@ -10,6 +10,7 @@
             <file>file:/C:/xampp/htdocs/bitm_php/array_functions/array_pop.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/strlen.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/array/three_dimensional_arrays.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/array_functions/array_sum.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/array_functions/array_push.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_expression/simple_expression.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/line.php</file>
@@ -25,22 +26,26 @@
             <file>file:/C:/xampp/htdocs/bitm_php/array_functions/array_search.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/ltrim.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/str_split.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/array_functions/array_values.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/substr_replace.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/ucfirst.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/str_repeat.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/strtolower.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/array_functions/asort.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/rtrim.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/file.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/strtoupper.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/php_magic_constants/dir.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/array/indexed_arrays.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/array/two_dimensional_array.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/array_functions/array_shift.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/substr_count.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/strip_tags.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/array_functions/array_replac_recursive.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/array_functions/array_merge.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/str_pad.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/addslashes.php</file>
+            <file>file:/C:/xampp/htdocs/bitm_php/array_functions/array_reverse.php</file>
             <file>file:/C:/xampp/htdocs/bitm_php/string_handling_function/nl2br.php</file>
         </group>
     </open-files>
