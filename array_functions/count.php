@@ -17,7 +17,7 @@
             
             echo"<br>";
             $a = array('Bangladesh', 'India', 'Dubai','India','India', );
-            echo count($a); //5 
+            echo count($a); //5
         ?>
         
     </body>
