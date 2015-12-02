@@ -11,13 +11,13 @@
     <body>
         <?php
             class MyClass
-                {
-                  // Class properties and methods go here
-                }
-                $obj = new MyClass;
-                
-                
-                var_dump($obj);
+            {
+              public $prop1 = "I'm a class property!";
+            }
+
+            $obj = new MyClass;
+
+            var_dump($obj);
         ?>
     </body>
 </html>
