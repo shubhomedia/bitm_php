@@ -10,9 +10,31 @@
     </head>
     <body>
         <?php
-            class friends{
-                public $var="Default Value";
-            }
+            class  Books{
+                /* Member variables */
+                var $price;
+                var $title;
+
+                /* Member functions */
+                function setPrice($par){
+                   $this->price = $par;
+                }
+
+                function getPrice(){
+                   echo $this->price ."<br/>";
+                }
+
+                function setTitle($par){
+                   $this->title = $par;
+                }
+
+                function getTitle(){
+                   echo $this->title ." <br/>";
+                }
+             }
+            $physics = new Books;
+            $maths = new Books;
+            $chemistry = new Books;
         ?>
     </body>
 </html>
