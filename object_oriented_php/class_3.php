@@ -12,9 +12,6 @@
         <?php
             class friends{
                 public $var="Default Value";
-                public function displayVar(){
-                    $this->var;
-                }
             }
         ?>
     </body>
