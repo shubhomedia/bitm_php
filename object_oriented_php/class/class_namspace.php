@@ -10,25 +10,12 @@
     </head>
     <body>
         <?php
-            class student {
-                public $name    ="";
-                public $roll    ="";
-                public $level   ="";
-                public $country ="";
-                public $pass    ="";
-                
-                public function studentCome(){
-                    echo"Students are comming in School";
-                    echo $this->name;
-                }
-                public function __construct(){
-                    echo $this->name;
-                    echo"new Students are admited";
-                    echo"<br>";
-                    echo"Hello";
-                }
-            }
             
+            function __autoload($classname){
+                include_once($classname .'.php') ;
+            }
+
+
             $shubho = new student;
             $shubho -> name ="owes Shubho"; 
             $shubho -> roll ="10"; 
@@ -46,7 +33,7 @@
             $touhid -> country ="Bangladesh"; 
             
             echo"<br>";
-            $touhid->studentCome();
+            $shubho->studentCome();
             
         ?>
     </body>
